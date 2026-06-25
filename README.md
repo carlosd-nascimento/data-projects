@@ -1,6 +1,16 @@
-# Projetos
+# Projetos de Dados - Carlos Diego
 
-Bem-vindo ao meu repositório central de projetos! Aqui estão organizados os principais trabalhos práticos e estudos que desenvolvi ao longo da minha trajetória na área de dados:
+Estudante de Análise e Desenvolvimento de Sistemas.
+Desenvolvendo habilidades em:
+
+- SQL
+- Python
+- Power BI
+- Modelagem de Dados
+- Machine Learning
+- Inteligência Artificial Generativa
+
+Este repositório reúne os principais projetos desenvolvidos durante minha jornada de aprendizado na área de Dados.
 
 ## 📂 Organização do Repositório
 
