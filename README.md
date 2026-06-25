@@ -1,6 +1,6 @@
 # Projetos de Dados - Carlos Diego
 
-Estudante de Análise e Desenvolvimento de Sistemas.
+Estudante de Análise e Desenvolvimento de Sistemas.  
 Desenvolvendo habilidades em:
 
 - SQL
