@@ -18,4 +18,4 @@
 * **Descrição:** Estudos práticos, algoritmos e análise preditiva aplicados durante a formação.
 
 ---
-🛠️ **Tecnologias Utilizadas:** Python, SQL, Jupyter Notebooks, Git e versionamento de código.
+🛠️ **Tecnologias Utilizadas:** Python, SQL, Excel, Jupyter Notebooks, Git e versionamento de código.
