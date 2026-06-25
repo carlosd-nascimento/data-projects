@@ -1,0 +1,1 @@
+Controle de pacotes de jogos que a Nintendo envia para os lojistas.

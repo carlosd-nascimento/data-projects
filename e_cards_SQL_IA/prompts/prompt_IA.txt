@@ -1,0 +1,66 @@
+comandos utilizados para melhorar a solicitação.
+
+1- Otimize the varchar fields to perfect size.
+
+2- Never use comments in my scripts, please
+
+3- Create another table and link to tbl_cards
+    -create a table to separate Type
+    -create a table to separete Stage
+
+____________________________________________________
+Caso não tenha o CONTEXTO do banco de dados.
+
+1- Consider tables bellow:
+
+CREATE TABLE tbl_collections (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    CollectionsSetName VARCHAR(100) NOT NULL,
+    ReleaseDate DATE NOT NULL,
+    TotalCardsInCollection SMALLINT UNSIGNED NOT NULL
+);
+
+CREATE TABLE tbl_types (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    TypeName VARCHAR(30) NOT NULL
+);
+
+CREATE TABLE tbl_stages (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    StageName VARCHAR(20) NOT NULL
+);
+
+CREATE TABLE tbl_cards (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    HP SMALLINT UNSIGNED,
+    Name VARCHAR(80) NOT NULL,
+    Info TEXT,
+    Attack VARCHAR(80),
+    Damage VARCHAR(15),
+    Weak VARCHAR(30),
+    Ressis VARCHAR(30),
+    Retreat VARCHAR(30),
+    CardNumberInCollection SMALLINT UNSIGNED NOT NULL,
+    CollectionId INT NOT NULL,
+    TypeId INT NOT NULL,
+    StageId INT NOT NULL,
+    FOREIGN KEY (CollectionId) REFERENCES tbl_collections(Id),
+    FOREIGN KEY (TypeId) REFERENCES tbl_types(Id),
+    FOREIGN KEY (StageId) REFERENCES tbl_stages(Id)
+);
+
+create a initial seed to all tables with tcg pokemon, generate inserts scripts
+
+2- generate 20 inserts records to tbl_cards
+
+3- more 30 records
+
+
+____________________________________________________________________________
+
+1 - Considere o modelo relacional abaixo:
+    "tabela sql que vamos utilizar"
+traga todas as informações da tbl_cards substituindo pelos nome das chaves estrangeiras:
+salve isso em uma view para mysql.
+
+2- dado o nosso "vw_cards_detailed", faça um select sem utilizar o *, faça chamando campo por campo

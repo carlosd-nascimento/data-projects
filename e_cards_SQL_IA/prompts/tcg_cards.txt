@@ -1,0 +1,28 @@
+[action]
+    create a scripts to create a table in mysql. 
+
+[context]
+    -the first table is a to save a pokemon tcg cards.
+    -the second table is a table to save collections set
+
+connect to table with FOREIGN KEY
+
+[infomation]
+first table: tbl_cards
+    -HP
+    -Name
+    -Type
+    -Stage
+    -info
+    -Attack
+    -Dammage
+    -Weak
+    -Ressis.
+    -Retreat
+    -CardNumberInCollection
+
+second table: tbl_collections
+    -Id
+    -ColletionsSetName
+    -RealeseDate
+    -TotalCardsInCollection
