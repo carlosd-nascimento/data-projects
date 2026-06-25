@@ -1,18 +1,5 @@
 # Projetos de Dados - Carlos Diego
 
-Estudante de Análise e Desenvolvimento de Sistemas.
-
-Desenvolvendo habilidades em:
-
-- SQL
-- Python
-- Power BI
-- Modelagem de Dados
-- Machine Learning
-- Inteligência Artificial Generativa
-
-Este repositório reúne os principais projetos desenvolvidos durante minha jornada de aprendizado na área de Dados.
-
 ## 📂 Organização do Repositório
 
 ### 1. [Programa Desenvolve — Grupo Boticário & Koru](./Develop_GB_Koru/Mini_projeto_livraria-devsaber/)
