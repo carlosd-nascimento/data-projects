@@ -128,7 +128,7 @@ crypto-market-etl/
 ![Script ETL rodando](imagens/script.png)
 
 ### Dados carregados no MySQL
-![Tabela geral](imagens/1_-_tabela_geral.png)
+![Tabela geral](./imagens/1_-_tabela_geral.png)
 
 ### Top 10 moedas por maior valor
 ![Top 10 moedas](imagens/3_-_top_10_moedas_maior_valor.png)
