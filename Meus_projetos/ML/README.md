@@ -83,7 +83,7 @@ Evidencia uma tendência positiva entre a área da casa e o preço do imóvel.
 **Mapa de Correlação:**  
 Mostra a correlação entre todas as variáveis numéricas. As variáveis `bathrooms` e `area` apresentam as maiores correlações com o preço.
 
-![Mapa de Correlação](heatmap.png)
+![Mapa de Correlação](./images/heatmap.png)
 
 ### 3. Modelagem — Regressão Linear Múltipla
 
@@ -101,7 +101,7 @@ Os dados foram divididos em **80% treino** e **20% teste** com `random_state=42`
 
 **Valores Reais vs Valores Previstos:**
 
-![Reais vs Previstos](linear_regression_pred.png)
+![Reais vs Previstos](./images/linear_regression_pred.png)
 
 A linha vermelha representa a previsão ideal. Os pontos próximos a ela indicam que o modelo conseguiu capturar parte do comportamento dos preços.
 
