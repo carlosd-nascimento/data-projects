@@ -96,28 +96,28 @@ O banco de dados `livraria_devsaber` é composto por **4 tabelas** relacionadas 
 ### 1. Total de Vendas por Vendedor
 Ranking dos vendedores pelo valor total gerado em vendas.
 
-![Total de Vendas por Vendedor](./querys/analise_vendas_vendedor.png)
+![Total de Vendas por Vendedor](./images/analise_vendas_vendedor.png)
 
 ---
 
 ### 2. Livros Mais Vendidos
 Lista os livros ordenados pela quantidade de unidades vendidas.
 
-![Livros Mais Vendidos](./querys/livros_mais_vendidos.png)
+![Livros Mais Vendidos](./images/livros_mais_vendidos.png)
 
 ---
 
 ### 3. Clientes que Mais Gastaram
 Identifica os clientes com maior volume de compras.
 
-![Clientes que Mais Gastaram](./querys/gastos_cliente.png)
+![Clientes que Mais Gastaram](./images/gastos_cliente.png)
 
 ---
 
 ### 4. Detalhes Completos das Vendas
 Combina todas as tabelas para exibir uma visão completa de cada transação.
 
-![Detalhes Completos das Vendas](./querys/detalhes_vendas.png)
+![Detalhes Completos das Vendas](./images/detalhes_vendas.png)
 
 ---
 
