@@ -78,7 +78,7 @@ Carregamento do dataset e análise inicial: shape, tipos de variáveis, valores 
 **Gráfico de Dispersão — Área vs Preço:**  
 Evidencia uma tendência positiva entre a área da casa e o preço do imóvel.
 
-![Área vs Preço](area_price.png)
+![Area_X_Price](./images/area_price.png)
 
 **Mapa de Correlação:**  
 Mostra a correlação entre todas as variáveis numéricas. As variáveis `bathrooms` e `area` apresentam as maiores correlações com o preço.
