@@ -78,12 +78,12 @@ Carregamento do dataset e análise inicial: shape, tipos de variáveis, valores 
 **Gráfico de Dispersão — Área vs Preço:**  
 Evidencia uma tendência positiva entre a área da casa e o preço do imóvel.
 
-![Área vs Preço](area_price.png)
+![Area_x_Price](./images/area_price.png)
 
 **Mapa de Correlação:**  
 Mostra a correlação entre todas as variáveis numéricas. As variáveis `bathrooms` e `area` apresentam as maiores correlações com o preço.
 
-![Mapa de Correlação](heatmap.png)
+![Mapa de_calor correlação](./images/heatmap.png)
 
 ### 3. Modelagem — Regressão Linear Múltipla
 
@@ -101,7 +101,7 @@ Os dados foram divididos em **80% treino** e **20% teste** com `random_state=42`
 
 **Valores Reais vs Valores Previstos:**
 
-![Reais vs Previstos](linear_regression_pred.png)
+![Reais vs Previstos](./images/linear_regression_pred.png)
 
 A linha vermelha representa a previsão ideal. Os pontos próximos a ela indicam que o modelo conseguiu capturar parte do comportamento dos preços.
 
