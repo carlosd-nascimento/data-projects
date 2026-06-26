@@ -27,7 +27,8 @@ CREATE TABLE IF NOT EXISTS criptomoedas (
     nome VARCHAR(255),
     simbolo VARCHAR(10),
     preco_usd DECIMAL(18,2),
-    volume_24h DECIMAL(18,2)
+    volume_24h DECIMAL(18,2),
+    data_captura TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 )
 """)
 
