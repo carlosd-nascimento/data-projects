@@ -60,15 +60,15 @@ Mini_Projeto_Analise_Dados/
 
 ### 1. Evolução Temporal das Vendas
 
-![Evolução Temporal das Vendas](./imagens/venda_tempo.png)
+![Evolução Temporal das Vendas](./images/venda_tempo.png)
 
 ### 2. Produtos Mais Vendidos
 
-![Produtos Mais Vendidos](./imagens/produtos_mais_vendidos.png)
+![Produtos Mais Vendidos](./images/produtos_mais_vendidos.png)
 
 ### 3. Relação entre Quantidade e Faturamento
 
-![Quantidade vs Faturamento](./imagens/quantidade_x_vendas.png)
+![Quantidade vs Faturamento](./images/quantidade_x_vendas.png)
 
 # Conclusões
 
