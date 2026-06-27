@@ -128,13 +128,13 @@ crypto-market-etl/
 ![Script ETL rodando](imagens/script.png)
 
 ### Dados carregados no MySQL
-![Tabela geral](./imagens/1_-_tabela_geral.png)
+![Tabela geral](./imagens/1-tabela_geral.png)
 
 ### Top 10 moedas por maior valor
-![Top 10 moedas](imagens/3_-_top_10_moedas_maior_valor.png)
+![Top 10 moedas](imagens/3-top_10_moedas_maior_valor.png)
 
 ### View `vw_ultima_cotacao` em execução
-![View executando](imagens/11_-_executando_view.png)
+![View executando](imagens/11-executando_view.png)
 
 ---
 
