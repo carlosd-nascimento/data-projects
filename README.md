@@ -16,7 +16,7 @@ data-projects/
 │   ├── Pipeline_cripto/         # ETL pipeline de criptomoedas com Python e MySQL
 │   └── ML/                      # Previsão de preços de imóveis com Regressão Linear
 │
-├── Desenvolve_GB_Koru/          # Projetos do Programa Desenvolve (Grupo Boticário & Koru)
+├── Desenvolve_GB_Koru/          # Projetos do Programa Desenvolve (Grupo Boticário & Escola Koru)
 │   ├── Mini_projeto_analise_de_dados/   # EDA de vendas com Python
 │   └── Mini_projeto_livraria_devsaber/ # Modelagem e SQL com banco de livraria fictícia
 │
